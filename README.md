@@ -4,6 +4,12 @@ Virtually every modern heater and thermostat will speak OpenTherm, but Remeha in
 
 ## Current status
 
+### Aug 5, 2025
+
+While I have been busy releasing the [Sentinel Core](https://sanctuary-systems.com/sentinel-core/) raspi GPU board, @robertklep has extended the parser, which I've uploadeded as [parser2.py](parser2.py).
+
+Once Sentinel Core boards are shipping I hope to develop a complete thermostat.
+
 ### Dec 23, 2024
 
 Ladies and gentelmen, we got him.
